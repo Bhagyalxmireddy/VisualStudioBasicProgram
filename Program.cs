@@ -7,10 +7,14 @@ namespace MyFirstVisualStudioProject
         public void method()
         {
             Console.WriteLine("calling the method");
+            
         }
         static void Main(string[] args)
         {
+            int a = 10;
             Console.WriteLine("Hello World!");
+            Console.WriteLine("value of a is" +a);
+
         }
     }
 }
