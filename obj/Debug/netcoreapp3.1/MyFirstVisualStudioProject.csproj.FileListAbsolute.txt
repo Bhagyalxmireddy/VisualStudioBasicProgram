@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\bin\Debug\netcoreapp3.1\MyFirstVisualStudioProject.exe
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\bin\Debug\netcoreapp3.1\MyFirstVisualStudioProject.deps.json
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\bin\Debug\netcoreapp3.1\MyFirstVisualStudioProject.runtimeconfig.json
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\bin\Debug\netcoreapp3.1\MyFirstVisualStudioProject.runtimeconfig.dev.json
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\bin\Debug\netcoreapp3.1\MyFirstVisualStudioProject.dll
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\bin\Debug\netcoreapp3.1\MyFirstVisualStudioProject.pdb
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\obj\Debug\netcoreapp3.1\MyFirstVisualStudioProject.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\obj\Debug\netcoreapp3.1\MyFirstVisualStudioProject.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\obj\Debug\netcoreapp3.1\MyFirstVisualStudioProject.AssemblyInfo.cs
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\obj\Debug\netcoreapp3.1\MyFirstVisualStudioProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\obj\Debug\netcoreapp3.1\MyFirstVisualStudioProject.dll
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\obj\Debug\netcoreapp3.1\MyFirstVisualStudioProject.pdb
+C:\Users\USER\source\repos\MyFirstVisualStudioProject\obj\Debug\netcoreapp3.1\MyFirstVisualStudioProject.genruntimeconfig.cache
